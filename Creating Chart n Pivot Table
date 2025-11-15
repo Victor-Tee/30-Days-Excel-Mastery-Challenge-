@@ -6,7 +6,7 @@ Best visualization: Bar Chart / Column Chart
 
 Insight: Helps identify top-performing product categories.
 
-✅ 2. How do monthly sales trend across different years?
+✅ 2. How do Year sales trend across different years?
 
 Columns needed: ORDERDATE (or MONTH_ID + YEAR_ID), SALES
 
